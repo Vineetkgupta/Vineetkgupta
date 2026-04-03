@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Vineet Kumar Gupta 👋
 
-<!--
-**Vineetkgupta/Vineetkgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst & Data Engineer | Big Data | ML | Python | SQL**
 
-Here are some ideas to get you started:
+> *"Turning raw data into actionable insights — one pipeline at a time."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔨 Currently
+
+- 📚 Pursuing **PG-DBDA** at C-DAC, Pune (2026)
+- 🛠 Building end-to-end **data pipelines** and **interactive dashboards**
+- 🎯 Looking for opportunities in **Data Analytics** and **Data Engineering**
+
+---
+
+## 🚀 Highlighted Projects
+
+| Project | Description |
+|---|---|
+| [**NYC Taxi Demand & Tipping Analysis**](https://github.com/vkgupta4960) | End-to-end PySpark pipeline + Streamlit dashboards for fare estimation & driver hotspot recommendations. XGBoost model achieving **74% accuracy**. |
+| [**AI Text Summarizer (NLP)**](https://github.com/vkgupta4960) | Multi-algorithm summarization tool using TextRank, TF-IDF, BART, T5, and Pegasus. Deployed via **FastAPI**, evaluated with ROUGE Score. |
+
+---
+
+## 💼 Experience & Focus
+
+- 🔍 Background in **Big Data processing** with PySpark, Hadoop, and Hive
+- 🎯 Current focus: **Data Engineering**, **Predictive Analytics**, and **KPI-driven dashboards**
+- 💡 Strengths: SQL optimization, data pipelines, ML model building, and translating data into business insights
+- 🏆 Qualified **GATE CS** in both **2024 and 2025**
+- 🧑‍🏫 Mentored **40+ students** at WIDS Datathon 2023
+
+---
+
+## 🛠 Tools & Technologies
+
+**Languages & Scripting:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data Analytics & Visualization:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Big Data Technologies:**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+
+**Machine Learning & NLP:**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| PG-DBDA | C-DAC, Pune | 2026 | 83.88% |
+| B.Tech (CS & IT) | MJP Rohilkhand University | 2020–2024 | CGPA 7.51 |
+
+---
+
+## 🏆 Achievements
+
+- ✅ **GATE CS Qualified** — 2024 & 2025
+- 🧑‍🏫 **Mentored 40+ students** at WIDS Datathon 2023
+
+---
+
+## 🎯 What I'm Looking For
+
+Open to roles in **Data Analysis**, **Data Engineering**, and **Business Intelligence**. Eager to work where I can build scalable pipelines, create meaningful dashboards, and apply ML to solve real-world problems.
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: [vkgupta4960@gmail.com](mailto:vkgupta4960@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vineet-kumar-gupta](https://linkedin.com/in/vineet-kumar-gupta)
+- 🐙 GitHub: [github.com/vkgupta4960](https://github.com/vkgupta4960)
+- 📞 Phone: +91 90272 48768

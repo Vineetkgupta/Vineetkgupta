@@ -96,3 +96,4 @@ Open to roles in **Data Analysis**, **Data Engineering**, and **Business Intelli
 - 💼 LinkedIn:[https://linkedin.com/in/vineet-kumar-gupta](https://www.linkedin.com/in/vineet-kumar-gupta-ab848b202/)
 - 🐙 GitHub: [https://github.com/Vineetkgupta](https://github.com/Vineetkgupta)
 - 📞 Phone: +91 90272 48768
+- 📄 Resume: [Download my Resume](./Vineet_Kumar_Gupta.pdf)

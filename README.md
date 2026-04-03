@@ -26,10 +26,9 @@
 ## 💼 Experience & Focus
 
 - 🔍 Background in **Big Data processing** with PySpark, Hadoop, and Hive
-- 🎯 Current focus: **Data Engineering**, **Predictive Analytics**, and **KPI-driven dashboards**
+- 🎯 Current focus: **Data Engineering**, **Data Analytics**, **Predictive Analytics**, and **KPI-driven dashboards**
 - 💡 Strengths: SQL optimization, data pipelines, ML model building, and translating data into business insights
-- 🏆 Qualified **GATE CS** in both **2024 and 2025**
-- 🧑‍🏫 Mentored **40+ students** at WIDS Datathon 2023
+
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## 🔨 Currently
 
-- 📚 Pursuing **PG-DBDA** at C-DAC, Pune (2026)
+- 📚 **PG-DBDA** at C-DAC, Pune (2026)
 - 🛠 Building end-to-end **data pipelines** and **interactive dashboards**
 - 🎯 Looking for opportunities in **Data Analytics** and **Data Engineering**
 

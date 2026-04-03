@@ -94,6 +94,6 @@ Open to roles in **Data Analysis**, **Data Engineering**, and **Business Intelli
 ## 📬 Get in Touch
 
 - 📧 Email: [vkgupta4960@gmail.com](mailto:vkgupta4960@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/vineet-kumar-gupta](https://linkedin.com/in/vineet-kumar-gupta)
-- 🐙 GitHub: [github.com/vkgupta4960](https://github.com/vkgupta4960)
+- 💼 LinkedIn:[https://linkedin.com/in/vineet-kumar-gupta](https://www.linkedin.com/in/vineet-kumar-gupta-ab848b202/)
+- 🐙 GitHub: [https://github.com/vkgupta4960](https://github.com/Vineetkgupta)
 - 📞 Phone: +91 90272 48768

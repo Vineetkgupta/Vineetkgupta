@@ -18,14 +18,8 @@
 
 | Project | Description |
 |---|---|
-| [**NYC Taxi Demand & Tipping Analysis**](https://github.com/ishaanshekhawat/NYC-Taxi-Demand-and-Tipping-Patterns-Analysis)| • Analyzed NYC Taxi trip data using PySpark and stored it in an S3-compatible object storage system.
-• Developed a Streamlit-based dashboard to estimate taxi fares and tips based on pickup/drop-off locations and time 
-features.
-• Built a driver-focused Streamlit dashboard that recommends nearby demand hotspots, helping optimize driver 
-earnings through data-driven location insights.
-• Applied Random Forest (with hyperparameter tuning) gives Accuracy 71% and XGBoost models to predict taxi tip 
-amount ranges gives Accuracy 74%, improving prediction reliability for customer-facing fare estimation. |
-| [**AI Text Summarizer (NLP)**](https://github.com/vkgupta4960) | Multi-algorithm summarization tool using TextRank, TF-IDF, BART, T5, and Pegasus. Deployed via **FastAPI**, evaluated with ROUGE Score. |
+| [**NYC Taxi Demand & Tipping Analysis**](https://github.com/ishaanshekhawat/NYC-Taxi-Demand-and-Tipping-Patterns-Analysis/) | End-to-end PySpark pipeline + Streamlit dashboards for fare estimation & driver hotspot recommendations. XGBoost model achieving **74% accuracy**. |
+| [**AI Text Summarizer (NLP)**](https://github.com/Vineetkgupta/AI-Text-Summarizer) | Multi-algorithm summarization tool using TextRank, TF-IDF, BART, T5, and Pegasus. Deployed via **FastAPI**, evaluated with ROUGE Score. |
 
 ---
 
